@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork4_1</string>
+    <string name="tvHeight">身高</string>
+    <string name="tvWeight">體重</string>
+    <string name="btSubmit">確定</string>
+    <string name="btClear">清除</string>
+    <string name="inputError">資料輸入錯誤,請重新輸入!</string>
+    <string name="btBack">返回</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
